@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     
     let firstChaneg = "making the first change"
     
+    let secondChange = "Making the second Change"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
